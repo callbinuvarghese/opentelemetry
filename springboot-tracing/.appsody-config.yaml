@@ -1,0 +1,3 @@
+id: "20200917171253.89599000"
+project-name: springboot-tracing
+stack: docker.io/kabanero/java-spring-boot2:0.3
